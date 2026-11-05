@@ -17,6 +17,7 @@ An independent, fictional portfolio prototype for a software engineering company
 - A contact form with client-side validation and success state. **It does not send or store data.**
 - Illustrative case-study placeholders explicitly marked as fictional, with no invented client names or results.
 - Basic metadata and a small SVG favicon.
+- An editorial visual direction with warm ivory, plum and copper, using serif headlines and restrained interface typography.
 
 ## Run locally
 
